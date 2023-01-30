@@ -1,0 +1,15 @@
+/*COLORS*/
+body{
+    background-color:#195905;
+}
+.main-heading{
+    color: #e6a6fa;
+}
+
+/*POSITIONING*/ 
+.main-heading{
+    display: flex;
+    justify-content: center;
+}
+
+/*FONTS*/ 
